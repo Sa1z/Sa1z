@@ -4,3 +4,14 @@
 - 📫 How to reach me: https://twitter.com/OpenSalz
 
 Thanks for stopping by! I'm a self taught web developer with a passion for technology and coding. I still have a long way to go as a developer so judge my code too hard, haha.
+
+My skills:
+
+- HTML
+- CSS
+- Javascript
+- Python
+- Git
+- Bash
+- Linux
+- Currently learning: React.js, Bootstrap, & SASS
