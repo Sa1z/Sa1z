@@ -14,4 +14,6 @@ My skills:
 - Git
 - Bash
 - Linux
-- Currently learning: React.js, Bootstrap, & SASS
+- Bootstrap
+- SASS
+- React.js
